@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #ffffe6;
+}
+
+.main-container {
+    display: flex;
+}
+
+.navbar-icon {
+    display: inline-block;
+    margin: 10px 70px;
+}
+
+.container {
+    display: inline-block;
+    margin-top: 24px;
+}
