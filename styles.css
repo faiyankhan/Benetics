@@ -139,3 +139,18 @@ body {
     justify-content:space-around;
     flex-wrap: wrap;
 }
+
+.cards:hover{
+    box-shadow: 10px 10px 5px #a5a5c0;
+    transition: 0.3s;
+}
+
+.footer-container{
+    margin: 50px;
+    display: flex;
+    justify-content:space-between;
+}
+
+.footer-part-2{
+   cursor: pointer;
+}
