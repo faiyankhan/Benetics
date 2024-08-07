@@ -154,3 +154,30 @@ body {
 .footer-part-2{
    cursor: pointer;
 }
+
+
+#input-box{
+    height: 30px;
+    width: 250px;
+    padding: 4px;
+    border-radius: 10px;
+    box-shadow: 2px 2px #a5a5c0;
+}
+
+#btn3{
+    font-size: 15px;
+    padding: 8px;
+    width: 90px;
+    border: none;
+    border-radius: 15px;
+    color: #ffffe6;
+    background-color: #ffcc00;
+}
+
+#btn3:hover{
+    color: black;
+    background-color: white;
+    box-shadow: 2px 2px #a5a5c0;
+    transition: 0.5s;
+    cursor: pointer;
+}
