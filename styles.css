@@ -181,3 +181,27 @@ body {
     transition: 0.5s;
     cursor: pointer;
 }
+
+.booking-container{
+    display:flex;
+    justify-content:space-between;
+    height: 350px;
+    width: 1100px;
+    border-radius: 30px;
+    background-color: #ffcc00;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.booking-container:hover{
+    color: #ffffe6;
+    transition: 0.5s;
+}
+
+#user-img{
+    height: 347px;
+    width: 390px;
+    border-radius: 30px;
+    margin-right: 20px;
+}
