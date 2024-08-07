@@ -229,3 +229,10 @@ body {
     border: none;
     box-shadow: 2px 2px black;
 }
+
+#btn4:hover{
+    color: white;
+    background-color: black;
+    transition: 0.5s;
+    cursor: pointer;
+}
