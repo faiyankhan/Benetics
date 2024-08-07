@@ -126,3 +126,16 @@ body {
     background-color: white;
     text-align: center;
 }
+
+.Customer-img{
+    height: 60%;
+    width: 90%;
+    border-radius:9px;
+    margin-top: 10px;
+}
+
+.cards-container{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
